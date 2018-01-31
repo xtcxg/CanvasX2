@@ -1,0 +1,28 @@
+﻿生成启动时间为 2018/1/30 11:32:03。
+     1>项目“G:\project\CanvasX2\CanvasX2\CanvasX2.vcxproj”在节点 2 上(Build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\CanvasX2.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\CanvasX2.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt RIGHT.cpp
+         RIGHT.cpp
+       ResourceCompile:
+         所有输出均为最新。
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\project\CanvasX2\Debug\CanvasX2.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"G:\project\CanvasX2\Debug\CanvasX2.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\project\CanvasX2\Debug\CanvasX2.lib" /MACHINE:X86 Debug\CanvasX2.res
+         Debug\CanvasX2.obj
+         Debug\CanvasX2Doc.obj
+         Debug\CanvasX2View.obj
+         Debug\MainFrm.obj
+         Debug\Num.obj
+         Debug\RIGHT.obj
+         Debug\stdafx.obj
+         CanvasX2.vcxproj -> G:\project\CanvasX2\Debug\CanvasX2.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\CanvasX2.unsuccessfulbuild”。
+         正在对“Debug\CanvasX2.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“G:\project\CanvasX2\CanvasX2\CanvasX2.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.88
